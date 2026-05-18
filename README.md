@@ -25,7 +25,7 @@ The program calculates your DTI and cash flow, then decides:
 ## Example output
 
 Financial Summary:
------------------
+| ----------------- |
 DTI: 32.5%
 Cash flow: $2500
 Savings rate: 15.2%
